@@ -9,7 +9,7 @@ The project was created to build an API for a social network web application whe
 
 ## Walkthrough
 
-https://drive.google.com/file/d/19PhTuX6yj24NTN-_NcuDpsTRf7WwMuWT/view?usp=sharing
+https://drive.google.com/file/d/15b1tuigsWGiJNFpTqCKXdEKvtkbWQ8D4/view?usp=sharing
 
 ## Table of Contents
 
